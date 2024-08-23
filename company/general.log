@@ -1,0 +1,1747 @@
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9526
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9526
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /admin/projects/resource/ HTTP/1.1" 200 7547
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/projects/resource/2/change/ HTTP/1.1" 200 9436
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /admin/projects/skill/add/?_to_field=id&_popup=1 HTTP/1.1" 200 2910
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /projects/ HTTP/1.1" 200 6040
+"GET /projects/ResourceViewSet/ HTTP/1.1" 200 10431
+"GET /projects/ResourceViewSet/1 HTTP/1.1" 301 0
+"GET /projects/ResourceViewSet/1/ HTTP/1.1" 200 11586
+"PUT /projects/ResourceViewSet/1/ HTTP/1.1" 200 11646
+"PUT /projects/ResourceViewSet/1/ HTTP/1.1" 200 11646
+"GET /admin/ HTTP/1.1" 200 5738
+"GET /admin/projects/resource/ HTTP/1.1" 200 7547
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/resource/2/change/ HTTP/1.1" 200 9436
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/task/ HTTP/1.1" 200 7506
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/task/1/change/ HTTP/1.1" 200 10555
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/resource/ HTTP/1.1" 200 7547
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/resource/2/change/ HTTP/1.1" 200 9436
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"POST /admin/projects/resource/2/change/ HTTP/1.1" 302 0
+"GET /admin/projects/resource/ HTTP/1.1" 200 7752
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /projects/ HTTP/1.1" 200 6040
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /projects/TaskAssignmentViewSet/ HTTP/1.1" 200 9732
+Bad Request: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/ HTTP/1.1" 400 9397
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 8147
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"POST /admin/projects/taskassignments/ HTTP/1.1" 200 6887
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/projects/taskassignments/ HTTP/1.1" 302 0
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6385
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+Bad Request: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/ HTTP/1.1" 400 9397
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/ HTTP/1.1" 400 9397
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 200 9427
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /admin/projects/taskassignments/add/ HTTP/1.1" 200 8767
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 304 0
+"GET /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 200 9427
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 200 9427
+"GET /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 200 9427
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 87026
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/projects/task/ HTTP/1.1" 200 7506
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/task/2/change/ HTTP/1.1" 200 10559
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 200 9427
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9552
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9552
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9549
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9549
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9549
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9549
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 500 9556
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9498
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9498
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9498
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9498
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 8147
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/5/change/ HTTP/1.1" 200 9065
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 8147
+"POST /admin/projects/taskassignments/ HTTP/1.1" 200 6887
+"GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+"POST /admin/projects/taskassignments/ HTTP/1.1" 302 0
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6385
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9498
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 7432
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"POST /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 201 9498
+Watching for file changes with StatReloader
+"GET /projects/ HTTP/1.1" 200 6040
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2220
+"GET /projects/ProjectViewSet/ HTTP/1.1" 200 9722
+"POST /projects/ProjectViewSet/ HTTP/1.1" 201 9770
+"GET /projects/ProjectViewSet/ HTTP/1.1" 200 9998
+"GET /projects/ HTTP/1.1" 200 6040
+"GET /projects/TaskViewSet/ HTTP/1.1" 200 10877
+"POST /projects/TaskViewSet/ HTTP/1.1" 201 10631
+"GET /projects/TaskViewSet/ HTTP/1.1" 200 11197
+"GET /projects/ HTTP/1.1" 200 6040
+"GET /projects/ResourceViewSet/ HTTP/1.1" 200 10461
+"GET /projects/ResourceViewSet/ HTTP/1.1" 200 10461
+"GET /projects/ HTTP/1.1" 200 6040
+"GET /projects/TaskAssignmentViewSet/ HTTP/1.1" 200 9609
+"GET /projects/TaskAssignmentViewSet/?project_id=1 HTTP/1.1" 200 9708
+"GET /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 200 9708
+"GET /admin/ HTTP/1.1" 200 8239
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 7676
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 7671
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/10/change/ HTTP/1.1" 200 9099
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 7671
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/9/change/ HTTP/1.1" 200 9097
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /admin/projects/taskassignments/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_taskassignments.project_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1815, in changelist_view
+    'selection_note': _('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_taskassignments.project_id
+"GET /admin/projects/taskassignments/ HTTP/1.1" 500 160503
+Internal Server Error: /admin/projects/taskassignments/9/change/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_taskassignments.project_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1660, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1540, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    obj = self.get_object(request, unquote(object_id), to_field)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 763, in get_object
+    return queryset.get(**{field.name: object_id})
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 431, in get
+    num = len(clone)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_taskassignments.project_id
+"GET /admin/projects/taskassignments/9/change/ HTTP/1.1" 500 178230
+Internal Server Error: /admin/projects/taskassignments/9/change/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_taskassignments.project_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1660, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1540, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    obj = self.get_object(request, unquote(object_id), to_field)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 763, in get_object
+    return queryset.get(**{field.name: object_id})
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 431, in get
+    num = len(clone)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_taskassignments.project_id
+"GET /admin/projects/taskassignments/9/change/ HTTP/1.1" 500 178498
+Internal Server Error: /admin/projects/taskassignments/9/change/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_taskassignments.project_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1660, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1540, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    obj = self.get_object(request, unquote(object_id), to_field)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 763, in get_object
+    return queryset.get(**{field.name: object_id})
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 431, in get
+    num = len(clone)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_taskassignments.project_id
+"GET /admin/projects/taskassignments/9/change/ HTTP/1.1" 500 178498
+"GET /admin/projects/ HTTP/1.1" 200 4519
+Internal Server Error: /admin/projects/taskassignments/10/change/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_taskassignments.project_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1660, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1540, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    obj = self.get_object(request, unquote(object_id), to_field)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 763, in get_object
+    return queryset.get(**{field.name: object_id})
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 431, in get
+    num = len(clone)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_taskassignments.project_id
+"GET /admin/projects/taskassignments/10/change/ HTTP/1.1" 500 178273
+- Broken pipe from ('127.0.0.1', 63413)
+
+"GET /admin/ HTTP/1.1" 200 8239
+Internal Server Error: /admin/projects/taskassignments/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_taskassignments.project_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 616, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\sites.py", line 232, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\options.py", line 1815, in changelist_view
+    'selection_note': _('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_taskassignments.project_id
+"GET /admin/projects/taskassignments/ HTTP/1.1" 500 160469
+Watching for file changes with StatReloader
+Internal Server Error: /admin/projects/taskassignments/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\options.py", line 608, in get_field
+    return self.fields_map[field_name]
+KeyError: '__str__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\utils.py", line 265, in lookup_field
+    f = _get_non_gfk_field(opts, name)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\utils.py", line 296, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\options.py", line 610, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: TaskAssignments has no field named '__str__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\base.py", line 33, in render
+    return super().render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\library.py", line 214, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 308, in result_list
+    'results': list(results(cl)),
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 284, in results
+    yield ResultList(None, items_for_result(cl, res, None))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 275, in __init__
+    super().__init__(*items)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 200, in items_for_result
+    f, attr, value = lookup_field(field_name, result, cl.model_admin)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\utils.py", line 278, in lookup_field
+    value = attr()
+  File "C:\Users\vigne\Project assignment in drf\company\projects\models.py", line 42, in __str__
+    return f"{self.task.name} assigned to {self.resource.name} to {self.project.name}"
+AttributeError: 'NoneType' object has no attribute 'name'
+"GET /admin/projects/taskassignments/ HTTP/1.1" 500 332776
+"GET /admin/ HTTP/1.1" 200 8239
+Internal Server Error: /admin/projects/taskassignments/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\options.py", line 608, in get_field
+    return self.fields_map[field_name]
+KeyError: '__str__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\utils.py", line 265, in lookup_field
+    f = _get_non_gfk_field(opts, name)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\utils.py", line 296, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\options.py", line 610, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: TaskAssignments has no field named '__str__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\base.py", line 33, in render
+    return super().render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\library.py", line 214, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 308, in result_list
+    'results': list(results(cl)),
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 284, in results
+    yield ResultList(None, items_for_result(cl, res, None))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 275, in __init__
+    super().__init__(*items)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 200, in items_for_result
+    f, attr, value = lookup_field(field_name, result, cl.model_admin)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\contrib\admin\utils.py", line 278, in lookup_field
+    value = attr()
+  File "C:\Users\vigne\Project assignment in drf\company\projects\models.py", line 42, in __str__
+    return f"{self.task.name} assigned to {self.resource.name} to {self.project.name}"
+AttributeError: 'NoneType' object has no attribute 'name'
+"GET /admin/projects/taskassignments/ HTTP/1.1" 500 332639
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 7677
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"POST /admin/projects/taskassignments/ HTTP/1.1" 200 6539
+"GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+"POST /admin/projects/taskassignments/ HTTP/1.1" 302 0
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6385
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 200 10011
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: projects_task.assigned
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\renderers.py", line 726, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\renderers.py", line 698, in get_context
+    'post_form': self.get_rendered_html_form(data, view, 'POST', request),
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\renderers.py", line 507, in get_rendered_html_form
+    return self.render_form_for_serializer(serializer)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\renderers.py", line 520, in render_form_for_serializer
+    {'style': {'template_pack': 'rest_framework/horizontal'}}
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\renderers.py", line 371, in render
+    return template.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\defaulttags.py", line 214, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\defaulttags.py", line 315, in render
+    return nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\templatetags\rest_framework.py", line 86, in render_field
+    return renderer.render_field(field, style)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\renderers.py", line 350, in render_field
+    return template.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\defaulttags.py", line 166, in render
+    values = self.sequence.resolve(context, ignore_failures=True)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 671, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 796, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\template\base.py", line 858, in _resolve_lookup
+    current = current()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\relations.py", line 215, in iter_options
+    self.get_choices(cutoff=self.html_cutoff),
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\rest_framework\relations.py", line 202, in get_choices
+    self.to_representation(item): self.display_value(item) for item in queryset
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 280, in __iter__
+    self._fetch_all()
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\vigne\Project assignment in drf\env\lib\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: projects_task.assigned
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 500 286113
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/task/ HTTP/1.1" 200 7713
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/task/3/change/ HTTP/1.1" 200 11023
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /admin/projects/task/ HTTP/1.1" 200 7713
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/task/1/change/ HTTP/1.1" 200 11001
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/task/ HTTP/1.1" 200 7713
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/task/1/change/ HTTP/1.1" 200 11001
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/ HTTP/1.1" 200 4519
+"GET /admin/projects/task/ HTTP/1.1" 200 7713
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/task/1/change/ HTTP/1.1" 200 11001
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/ HTTP/1.1" 200 4519
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+C:\Users\vigne\Project assignment in drf\company\projects\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /projects/TaskAssignmentViewSet/
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 500 10231
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /projects/TaskAssignmentViewSet/?project_id=2 HTTP/1.1" 201 10082
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+"GET /admin/projects/taskassignments/ HTTP/1.1" 200 6238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3195
+C:\Users\vigne\Project assignment in drf\company\projects\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vigne\Project assignment in drf\company\company\settings.py changed, reloading.
